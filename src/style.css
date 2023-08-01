@@ -1,0 +1,24 @@
+body {
+  background-color: bisque;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  padding: 20px;
+  padding-top: 0;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.email-address {
+  text-decoration: none;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: space-evenly;
+}
